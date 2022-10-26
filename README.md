@@ -12,7 +12,7 @@
 4. Flowchart dari program yang sebelumnya sudah dijalankan
 ![img.5](Screenshot/Foto5.png)
 
-# Mengcommit yang sudah dikerjakan ke Github
+# Mengcommit file yang sudah dikerjakan ke Github
 1. Langkahnya adalah sebagai berikut:
 ![img.6](Screenshot/Foto6.png)
 ![img.7](Screenshot/Foto7.png)
