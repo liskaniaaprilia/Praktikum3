@@ -1,18 +1,21 @@
 # Praktikum 3
-1. Buatlah repository dengan nama Praktikum3
+# Latihan 1
+
+# 1. Parameter END
+Parameter end berfungsi untuk mengganti karakter terakhir bawaan yang dicetak di layar. jadi, setiap memanggil fungsi print() untuk mencetak sesuatu, python akan mencetak karakter ganti baris disetiap output.
+
+- contohnya adalah sebagai berikut :
 ![img.1](Screenshot/Foto1.png)
 
-# Membuat Program Python
-1. Sebelum membuat program, pastikan pycharm sudah terinstal di komputer.
-![img.2](Screenshot/Foto2.png)
-2. Jika pycharm sudah terinstal, silahkan membuat program untuk menghitung luas dan keliling lingkaran. berikut ini merupakan program nya :
-![img.3](Screenshot/Foto3.png)
-3. Hasil dari program python yang sudah dibuat, antara lain :
-![img.4](Screenshot/Foto4.png)
-4. Flowchart dari program yang sebelumnya sudah dijalankan
-![img.5](Screenshot/Foto5.png)
+# 2. Separator
+ketika memanggil fungsi print() untuk menampilkan multi argument, python akan otomatis menambahkan karakter spasi pemisah antar argumen tersebut. jika tidak ingin pemisah spasi, maka bisa menambahkan parameter separator saat memanggil fungsi print()
 
-# Mengcommit file yang sudah dikerjakan ke Github
-1. Langkahnya adalah sebagai berikut:
-![img.6](Screenshot/Foto6.png)
-![img.7](Screenshot/Foto7.png)
+- contohnya adalah sebagai berikut :
+![img.2](Screenshot/Foto2.png)
+
+# 3. String Format
+Fungsi format() berfungsi untuk melakukan pengaturan format string yang akan dicetak atau ditampilkan ke monitor.
+
+-contohnya adalah sebagai berikut :
+![img.3](Screenshot/Foto3.png)
+![img.4](Screenshot/Foto4.png)
